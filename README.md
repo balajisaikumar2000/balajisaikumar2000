@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @balajisaikumar2000
+- 👋 Hi, I’m Balaji Sai Kumar
 - 👀 I’m interested in web development,Tech
 - 🌱 I’m currently learning web_development/React
 - 💞️ I’m looking to collaborate on any projects regarding web development
