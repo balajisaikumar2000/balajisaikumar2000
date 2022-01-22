@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Balaji Sai Kumar
 - 👀 I’m interested in web development,Tech
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on any projects regarding web development
 
 <!---
